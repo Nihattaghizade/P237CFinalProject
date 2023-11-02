@@ -24,19 +24,6 @@
         "runtime": {
           "bin/placeholder/Academy.Data.dll": {}
         }
-      },
-      "Academy.Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Academy.Data": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Academy.Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Academy.Service.dll": {}
-        }
       }
     }
   },
@@ -50,16 +37,11 @@
       "type": "project",
       "path": "../Academy.Data/Academy.Data.csproj",
       "msbuildProject": "../Academy.Data/Academy.Data.csproj"
-    },
-    "Academy.Service/1.0.0": {
-      "type": "project",
-      "path": "../Academy.Service/Academy.Service.csproj",
-      "msbuildProject": "../Academy.Service/Academy.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Academy.Service >= 1.0.0"
+      "Academy.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -68,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.App\\Academy.App.csproj",
-      "projectName": "Academy.App",
-      "projectPath": "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.App\\Academy.App.csproj",
+      "projectUniqueName": "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.Service\\Academy.Service.csproj",
+      "projectName": "Academy.Service",
+      "projectPath": "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.Service\\Academy.Service.csproj",
       "packagesPath": "C:\\Users\\99450\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.App\\obj\\",
+      "outputPath": "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\99450\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.Service\\Academy.Service.csproj": {
-              "projectPath": "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.Service\\Academy.Service.csproj"
+            "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.Data\\Academy.Data.csproj": {
+              "projectPath": "C:\\Users\\99450\\OneDrive\\Masaüstü\\P237CFinalProject\\P237C#FinalProject\\Academy.Data\\Academy.Data.csproj"
             }
           }
         }
