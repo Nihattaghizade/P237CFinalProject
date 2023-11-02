@@ -1,0 +1,5 @@
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.AssemblyReference.cache
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfoInputs.cache
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfo.cs
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.CoreCompileInputs.cache
