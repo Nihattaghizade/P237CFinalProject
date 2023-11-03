@@ -3,3 +3,10 @@ C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.
 C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfoInputs.cache
 C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfo.cs
 C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\bin\Debug\net6.0\Academy.Core.deps.json
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.dll
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\refint\Academy.Core.dll
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\Academy.Core.pdb
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Core\obj\Debug\net6.0\ref\Academy.Core.dll

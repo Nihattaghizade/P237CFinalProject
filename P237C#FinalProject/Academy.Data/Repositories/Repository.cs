@@ -3,7 +3,7 @@ using Academy.Core.Repositories;
 
 namespace Academy.Data.Repositories
 {
-    internal class Repository<T> : IRepository<T> where T : BaseModel
+    public class Repository<T> : IRepository<T> where T : BaseModel
     {
         List<T> values = new List<T>();
         public async Task CreateAsync(T entity)

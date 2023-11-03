@@ -3,3 +3,13 @@ C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.
 C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\obj\Debug\net6.0\Academy.Data.AssemblyInfoInputs.cache
 C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\obj\Debug\net6.0\Academy.Data.AssemblyInfo.cs
 C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\obj\Debug\net6.0\Academy.Data.csproj.CoreCompileInputs.cache
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\bin\Debug\net6.0\Academy.Data.deps.json
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\bin\Debug\net6.0\Academy.Data.dll
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\bin\Debug\net6.0\Academy.Data.pdb
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\obj\Debug\net6.0\Academy.Data.csproj.CopyComplete
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\obj\Debug\net6.0\Academy.Data.dll
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\obj\Debug\net6.0\refint\Academy.Data.dll
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\obj\Debug\net6.0\Academy.Data.pdb
+C:\Users\99450\OneDrive\Masaüstü\P237CFinalProject\P237C#FinalProject\Academy.Data\obj\Debug\net6.0\ref\Academy.Data.dll
