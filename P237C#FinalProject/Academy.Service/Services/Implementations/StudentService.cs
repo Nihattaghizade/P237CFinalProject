@@ -16,7 +16,7 @@ namespace Academy.Service.Services.Implementations
             if (string.IsNullOrWhiteSpace(group))
                 return "Group can't be empty";
             if (avarage <= 0 || avarage > 100)
-                return "Avarage cen't be less than 0";
+                return "Avarage can be arrange of 1-100";
 
             Student student=new Student(fullName, group, avarage, educationType);
             student.CreatedAt = DateTime.UtcNow.AddHours(4);
