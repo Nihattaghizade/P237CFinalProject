@@ -15,7 +15,7 @@ namespace Academy.Service.Services.Implementations
                 return "Fullname can't be empty";
             if (string.IsNullOrWhiteSpace(group))
                 return "Group can't be empty";
-            if (avarage <= 0)
+            if (avarage <= 0 || avarage > 100)
                 return "Avarage cen't be less than 0";
 
             Student student=new Student(fullName, group, avarage, educationType);
